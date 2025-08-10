@@ -1,9 +1,8 @@
-
 import React from "react";
 import './Home1.css';
 import profile from "../assets/profile.png";
 import Type from "./Type.jsx";
-import resumePDF from "../assets/R.TaruniRamyaRani(Resume)(U).pdf"; 
+import resumePDF from "../assets/Robbi Taruni Ramya Rani(Resume-0556)"; 
 
 const Home1 = () => {
   return (
